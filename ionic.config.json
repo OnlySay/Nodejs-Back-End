@@ -1,0 +1,7 @@
+{
+  "name": "Proyecto Mis Gastos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
